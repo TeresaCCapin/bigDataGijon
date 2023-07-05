@@ -1,4 +1,4 @@
-<h1 "style color:red,"># bigDataGijon</h1>
+<h1 style="color:red;"># bigDataGijon</h1>
 <h3>2023 - 07 - 03</h3>
 <ol>
   <li><strong >Teresa -01- Variables:</strong>
@@ -11,7 +11,7 @@
 <h3>2023 - 07 - 04</h3>
 <ol>
   <li><strong >Tere M5 - 03 - Loops</strong>Finshing the practice with loops (while and for)</li>
-  <li><strong >_M5 - 10 - Pandas</strong>First practice with Pandas. </li>
+  <li><strong >_M5 - 10 - Pandas</strong> First practice with Pandas. </li>
   <li><strong >SpaceX - 1 - Data Collection Api v2</strong> First step: collecting data.</li>
 
 
