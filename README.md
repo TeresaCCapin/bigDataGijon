@@ -1,4 +1,4 @@
-<h1 ># bigDataGijon</h1>
+<h1 >Curso Big Data. Gijón 2023</h1>
 <h3>Día 1 (2023 - 07 - 03)</h3>
 <ol>
  <li><h4>Teresa -01- Variables:</h4>
