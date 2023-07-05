@@ -1,7 +1,7 @@
 <h1 ># bigDataGijon</h1>
 <h3>Día 1 (2023 - 07 - 03)</h3>
 <ol>
- <strong> <li>Teresa -01- Variables:</strong>
+ <li><h5>Teresa -01- Variables:</h5>
     Practising variables in Python. Core data types (string, boolean, integrer and float), string methods, lists, diccionaries, etc.</li>
  <li><strong >Teresa M5 - 02 - Condicionals:</strong>
      Practising conditional operators (if, elif, else)</li>
