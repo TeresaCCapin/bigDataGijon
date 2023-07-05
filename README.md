@@ -1,4 +1,4 @@
-<h1 style color:red,"># bigDataGijon</h1>
+<h1 "style color:red,"># bigDataGijon</h1>
 <h3>2023 - 07 - 03</h3>
 <ol>
   <li><strong >Teresa -01- Variables:</strong>
