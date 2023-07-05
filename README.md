@@ -1,5 +1,5 @@
-<h1 style="color:red;"># bigDataGijon</h1>
-<h3>2023 - 07 - 03</h3>
+<h1 ># bigDataGijon</h1>
+<h3 style="color:red;">2023 - 07 - 03</h3>
 <ol>
   <li><strong >Teresa -01- Variables:</strong>
     Practising variables in Python. Core data types (string, boolean, integrer and float), string methods, lists, diccionaries, etc.</li>
