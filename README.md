@@ -15,9 +15,9 @@
   <li><h4>SpaceX - 1 -</h4> Data Collection Api v2</strong> First step: <strong > collecting data.</strong></li> 
 </ol>
 <ol><h3>Día 3 (2023 - 07 - 05</h3>
-   <li><h4>Prophet - Predecir el valor de Bitcoin:</h4> Introducción a la librería "Prophet". Predecir el valor del "Bitcoin" a un año vista.</li>
-   <li><h4>_M5 - 06 - Introducción a Machine Learning: </h4></li> 
-   <li><h4>Folium</h4></li>
+   <li><h4>Prophet - Predicting Bitcoin value:</h4> Working with "Prophet". Predict Bitcoin value within one year.</li>
+   <li><h4>_M5 - 06 - Introducción a Machine Learning: </h4> Using Scikit-Learn for the first time.</li> 
+   <li><h4>Folium: </h4>Using Folium to work with maps making them also interactive.</li>
    
 
 
