@@ -23,7 +23,7 @@
 <h3>Día 4 (2023-07-06</h3>
 <ol>
  <li><h4>SPACEX2 - 5 - Folium</h4>A bunch of excercises with folium</li>
- <li><h4>SPACEX2 - 6 -</h4> Working with machine learning, making predictions. Will the spaceship land?</li>
+ <li><h4>SPACEX2 - 6 - Machine learning</h4> Working with machine learning, making predictions. Will the spaceship land?</li>
 
 
  
