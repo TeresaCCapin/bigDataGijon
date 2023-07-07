@@ -19,7 +19,12 @@
    <li><h4>Prophet - Predicting Bitcoin value:</h4> Working with "Prophet". Predict Bitcoin value within one year.</li>
    <li><h4>_M5 - 06 - Introducción a Machine Learning: </h4> Using Scikit-Learn for the first time.</li> 
    <li><h4>Folium: </h4>Using Folium to work with maps making them also interactive.</li>
-   
+</ol>
+<h3>Día 4 (2023-07-06</h3>
+<ol>
+ <li><h4>SPACEX2 - 5 - Folium</h4>A bunch of excercises with folium</li>
+ <li><h4>SPACEX2 - 6 -</h4> Working with machine learning, making predictions. Will the spaceship land?</li>
 
 
+ 
 </ol>
