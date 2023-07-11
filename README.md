@@ -28,6 +28,10 @@
  <h3>Día 5 (2023-07-07</h3>
 <ol>
 <li><h4>SPACEX4</h4>Keep working with machine learning making predictions with the spaceship.</li>
+</ol>
+<h3>Día 6 (2023-07-10</h3>
+<ol> 
+<li><h4>01 - Funciones</h4> Little review of functions in Python. How they work, how to define them, etc.</li>
+<li><h4>02 - Clases</h4> Learning how to use classes in Python and why should them be used.</li>
 
- 
 </ol>
