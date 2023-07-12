@@ -23,7 +23,7 @@
 <h3>Día 4 (2023-07-06</h3>
 <ol>
  <li><h4>SPACEX2 - 5 - Folium</h4>A bunch of excercises with folium</li>
- <li><h4>SPACEX2 - 6 - Machine learning</h4> Working with machine learning, making predictions. Will the spaceship land?</li>
+ <li><h4>SPACEX2 - 6 - Machine learning</h4> Working with machine learning, making p to use redictions. Will the spaceship land?</li>
 </ol>
  <h3>Día 5 (2023-07-07</h3>
 <ol>
@@ -33,5 +33,6 @@
 <ol> 
 <li><h4>01 - Funciones</h4> Little review of functions in Python. How they work, how to define them, etc.</li>
 <li><h4>02 - Clases</h4> Learning how to use classes in Python and why should them be used.</li>
-
 </ol>
+<h3>Día 7 (2023-07-11</h3>
+<ol><h4>04-Programación Funcional. </h4>Learning how to use lambda fuctions, map and filter.</ol>
