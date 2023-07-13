@@ -35,4 +35,13 @@
 <li><h4>02 - Clases</h4> Learning how to use classes in Python and why should them be used.</li>
 </ol>
 <h3>Día 7 (2023-07-11</h3>
-<ol><h4>04-Programación Funcional. </h4>Learning how to use lambda fuctions, map and filter.</ol>
+<ol><h4>04-Programación Funcional. </h4>
+<li>Learning how to use lambda fuctions, map and filter.</li></ol>
+<h3>Día 8</h3>
+<ol>
+ <li><h4>M6-02-SparkSession Teoría.</h4>Explanation of Spark and its uses in corporate field.</li>
+ <li><h4>M6-03-Primer RDD Teoría</h4>Explanation of RDD. How to use it and why.</li>
+ <li><h4>M6-07- Transformaciones y acciones sobre un RDD</h4>Practicing with RDD's. Creating them and understanding how it works.</li>
+
+ 
+</ol>
